@@ -1,2 +1,3 @@
 My first Repo
-Learning how to a third commit
+Learning how to do a third commit
+Just made some changes
