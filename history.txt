@@ -1,0 +1,163 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  clear
+    5  git status
+    6  .git
+    7  ls
+    8  cd Desktop
+    9  cd UmuziBoocamp
+   10  cd UmuziBootcamp
+   11  clear
+   12  ls
+   13  cd Github
+   14  ls
+   15  git config -- global user.email "wizardshezi@gmail.com"
+   16  ls
+   17  git config - global user.email "wizardshezi@gmail.com"
+   18  clear
+   19  git config --global user.email "wizardshezi@gmail.com"
+   20  git user.email
+   21  git username
+   22  git user.email
+   23  git config --global user.email
+   24  git config --global user.name "SiboneloShezi"
+   25  git config --global user.name
+   26  clear
+   27  ls
+   28  git status
+   29  cd ~
+   30  clear
+   31  cd Desktop
+   32  wls --install
+   33  git branch
+   34  ls
+   35  clear
+   36  cd Desktop
+   37  git https://github.com/Umuzi-org/Sibonelo-Shezi-219-level-1-programming-katas-javascript.git
+   38  git clone https://github.com/Umuzi-org/Sibonelo-Shezi-219-level-1-programming-katas-javascript.git~
+   39  git clone git@github.com:Umuzi-org/Sibonelo-Shezi-219-level-1-programming-katas-javascript.git~
+   40  ls
+   41  ls
+   42  cd Desktop
+   43  ls
+   44  clear
+   45  cd git-basic-exercises/
+   46  ls
+   47  touch README.md 
+   48  ls
+   49  clear
+   50  ls
+   51  ls -a 
+   52  git status 
+   53  git log
+   54  git add .
+   55  git status 
+   56  clear
+   57  git reset
+   58  git status 
+   59  git add .
+   60  git commit -m "initital commit"
+   61  git log 
+   62  nano README.md 
+   63  cat README.md 
+   64  clear
+   65  git status 
+   66  git add .
+   67  git add .
+   68  git commit -m "second commit"
+   69  nano README.md 
+   70  nano README.md 
+   71  git add .
+   72  git commit -m "third commit"
+   73  clear
+   74  git log
+   75  q
+   76  git checkout 8b11737266eae002d0c17b94c69c3a39936a3bc1
+   77  cat README.md
+   78  git checkout main
+   79  cat README.md 
+   80  clear
+   81  git branch
+   82  git branch milkshake-flavours
+   83  git branch 
+   84  git checkout milkshake-flavours
+   85  git branch 
+   86  nano milkshakes-flavours.md 
+   87  git status 
+   88  git add . 
+   89  git commit -m "added initial flavours"
+   90  clear
+   91  git log
+   92  git checkout main 
+   93  git branch history
+   94  clear
+   95  git branch 
+   96  git log
+   97  history > history.txt
+   98  git add .
+   99  git commit -m "added history"
+  100  clear
+  101  git log
+  102  git status 
+  103  git branch 
+  104  git checkout milkshake-flavours
+  105  clear
+  106  git log
+  107  ls
+  108  nano README.md 
+  109  git branch history
+  110  git checkout history
+  111  clear
+  112  ls
+  113  git status 
+  114  git branch 
+  115  git checkout milkshake-flavours
+  116  ls
+  117  clear
+  118  git add .
+  119  git commit -m"random readme changes"
+  120  git checkout history
+  121  car README.md 
+  122  cat README.md 
+  123  rm README.md 
+  124  echo "booya" README.md 
+  125  git add .
+  126  git commit -m "rewrote readme"
+  127  clear
+  128  ls
+  129  git stus 
+  130  git status 
+  131  git branch
+  132  git checkout main
+  133  clear
+  134  ls
+  135  git log
+  136  git checkout milk-shakes flavours
+  137  clear
+  138  git brancg 
+  139  git branch
+  140  git checkout [200~
+  141  git branch milkshake-flavours 
+  142  git checkout milkshake-flavours
+  143  clear
+  144  ls
+  145  git log
+  146  git checkout history
+  147  clear
+  148  ls
+  149  git checkout main
+  150  ls
+  151  rm history.text
+  152  ls
+  153  rm history.txt
+  154  ls
+  155  clear
+  156  git checkout history
+  157  ls
+  158  cat README.md 
+  159  touch README.md 
+  160  echo history.txt
+  161  ls
+  162  history echo history.txt
+  163  history > history.txt
