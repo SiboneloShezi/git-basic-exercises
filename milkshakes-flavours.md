@@ -1,3 +1,3 @@
-Vanila Ice-cream
-chocolate Ice-cream 
-strawberry Ice-cream
+Vanilla milkshake
+Strawberry milkshake
+Chocolate milkshake
